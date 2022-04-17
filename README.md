@@ -1,4 +1,4 @@
-# day-1-vue
+# Design Inspiration | Dennis Adelmann
 
 ## Project setup
 ```
